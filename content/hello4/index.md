@@ -7,3 +7,5 @@ date modified: 2026-04-23 19:59:47+09:00
 ---
 
 hello4's new page
+
+![](content/hello4/Pasted%20image%2020260423200039.png)
