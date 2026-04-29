@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "007232b4126c2f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "576731159eee0108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d5c3ad091e3a7a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "docs/setting up your GitHub repository.md",
+                "bFile": "docs/setting up your GitHub repository.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: setting up your GitHub repository  (Working Tree)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57afc7b40deeb3be",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eade0ddf46e3bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e68119abe1e7909a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6cb96c8cf2b1a397",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "094430e46f8200e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3013b34ca489e0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9748a5346f216710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "853481c438d09f30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CODE_OF_CONDUCT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CODE_OF_CONDUCT 의 백링크"
+            }
+          },
+          {
+            "id": "04dbeabcd171b2f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CODE_OF_CONDUCT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CODE_OF_CONDUCT 의 나가는 링크"
+            }
+          },
+          {
+            "id": "24a0a932b649d141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "30f23ad60cea857b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "589e14f8b893feb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CODE_OF_CONDUCT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CODE_OF_CONDUCT 의 개요"
+            }
+          },
+          {
+            "id": "bd3f79f4e2d0f405",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "91d5c3ad091e3a7a",
+  "lastOpenFiles": [
+    "content/index.md",
+    "content/새로운 페이지.md",
+    "CODE_OF_CONDUCT.md",
+    "template/New Post.md",
+    "template",
+    "quartz/static/새로운 페이지.png",
+    "content/hello3/index.md",
+    "content/hello3"
+  ]
+}
