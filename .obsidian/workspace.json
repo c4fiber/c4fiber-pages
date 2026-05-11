@@ -11,14 +11,14 @@
             "id": "91d5c3ad091e3a7a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "quartz.config.ts",
-                "bFile": "quartz.config.ts",
-                "aRef": ""
+                "file": "content/hello3/헬로3 하위의 새로운 페이지.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: quartz.config.ts  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "헬로3 하위의 새로운 페이지"
             }
           }
         ]
@@ -196,13 +196,51 @@
   },
   "active": "91d5c3ad091e3a7a",
   "lastOpenFiles": [
-    "content/hello3/헬로3 하위의 새로운 페이지.md",
     "content/hello3/index.md",
-    "content/index.md",
-    "template/New Post.md",
-    "CODE_OF_CONDUCT.md",
-    "template",
-    "quartz/static/새로운 페이지.png",
-    "content/hello3"
+    "public/static/giscus/dark.css",
+    "public/static/giscus/light.css",
+    "public/tags/index.html",
+    "public/static/새로운 페이지.png",
+    "public/static/giscus",
+    "public/static/og-image.png",
+    "public/hello3/헬로3-하위의-새로운-페이지-og-image.webp",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/hello3/헬로3-하위의-새로운-페이지.html",
+    "public/hello3/index.html",
+    "public/hello3/index-og-image.webp",
+    "public/tags",
+    "public/sitemap.xml",
+    "public/static",
+    "public/index-og-image.webp",
+    "node_modules/rxjs/README.md",
+    "node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "node_modules/flexsearch/README.md",
+    "node_modules/speech-rule-engine/lib/README.md",
+    "node_modules/@img/sharp-win32-x64/README.md",
+    "node_modules/@shuding/opentype.js/RELEASES.md",
+    "node_modules/d3-shape/README.md",
+    "node_modules/d3-geo/README.md",
+    "node_modules/yargs/README.md",
+    "node_modules/css-to-react-native/LICENSE.md",
+    "node_modules/d3-hierarchy/README.md",
+    "node_modules/hast-util-to-jsx-runtime/node_modules/property-information/readme.md",
+    "node_modules/hast-util-to-html/node_modules/property-information/readme.md",
+    "node_modules/d3-transition/README.md",
+    "node_modules/fast-glob/README.md",
+    "node_modules/d3-interpolate/README.md",
+    "node_modules/workerpool/README.md",
+    "node_modules/d3-scale/README.md",
+    "node_modules/robust-predicates/README.md",
+    "node_modules/vfile/readme.md",
+    "node_modules/@xmldom/xmldom/SECURITY.md",
+    "node_modules/parse5/README.md",
+    "node_modules/d3-ease/README.md",
+    "node_modules/async-mutex/README.md",
+    "node_modules/@ungap/structured-clone/README.md",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/js-binary-schema-parser/example/horses.gif"
   ]
 }
