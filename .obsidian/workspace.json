@@ -11,14 +11,14 @@
             "id": "91d5c3ad091e3a7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "content/hello3/헬로3 하위의 새로운 페이지.md",
-                "mode": "source",
-                "source": false
+                "aFile": "quartz.config.ts",
+                "bFile": "quartz.config.ts",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "헬로3 하위의 새로운 페이지"
+              "icon": "diff",
+              "title": "Diff: quartz.config.ts  (Working Tree)"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "91d5c3ad091e3a7a",
   "lastOpenFiles": [
-    "content/hello3/index.md",
     "content/hello3/헬로3 하위의 새로운 페이지.md",
+    "content/hello3/index.md",
     "content/index.md",
     "template/New Post.md",
     "CODE_OF_CONDUCT.md",
